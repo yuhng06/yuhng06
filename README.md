@@ -25,7 +25,7 @@ Aspiring Financial Analytics professional
 ## 📂 Projects
 | Project | Description | Tools |
 |---|---|---|
-| [SGX Stock Tracker](https://github.com/[yuhng06]/sgx-stock-tracker) | Tracks DBS, OCBC, SGX stock performance — returns and moving averages | Python, Pandas, yfinance, Matplotlib |
+| [SGX Stock Tracker](https://github.com/yuhng06/sgx-stock-portfolio-tracker) | Tracks DBS, OCBC, SGX stock performance — returns and moving averages | Python, Pandas, yfinance, Matplotlib |
 | [CS50P Problem Sets](https://github.com/yuhng06/cs50p-problem-sets) | Harvard CS50P problem sets — functions, OOP, file I/O | Python |
 
 ---
